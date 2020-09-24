@@ -2,7 +2,7 @@
 layout: default
 title: Server Software
 parent: Build-server
-has_children: true
+has_children: false
 nav_order: 2
 ---
 
