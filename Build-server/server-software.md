@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Server Software
-parent: UI Components
+parent: Build-server
 has_children: true
-nav_order: 6
+nav_order: 2
 ---
 
 # Code
