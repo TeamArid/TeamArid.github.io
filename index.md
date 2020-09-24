@@ -1,8 +1,9 @@
 ---
-title: Introduction
-layout: home
-todo:
- - Decide on website
+layout: default
+title: Home
+nav_order: 1
+description: "Test website, please ignore."
+permalink: /
 ---
 Getting Started
 This is a testing website. please ignore.
